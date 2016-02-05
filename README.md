@@ -1,1 +1,1 @@
-# empty
+# Empty: Just another empty project
